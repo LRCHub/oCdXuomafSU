@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Consume（feat. GOON DES GARCONS*）",
+  "base_artist": "Chase Atlantic",
+  "createdAt": "2026-03-24T06:26:30.252407Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Consume (feat. GOON DES GARCONS*)",
+      "artist": "Chase Atlantic",
+      "has_synced": true,
+      "path": "select/01_Consume_(feat._GOON_DES_GARCONS_)_Chase_Atlantic.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Consume (feat Goon Des Garcons)",
+      "artist": "Chase Atlantic",
+      "has_synced": true,
+      "path": "select/02_Consume_(feat_Goon_Des_Garcons)_Chase_Atlantic.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Consume (feat. Goon Des Garcons)",
+      "artist": "Chase Atlantic",
+      "has_synced": true,
+      "path": "select/03_Consume_(feat._Goon_Des_Garcons)_Chase_Atlantic.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Consume (feat. Goon des Garcons)",
+      "artist": "Chase Atlantic",
+      "has_synced": true,
+      "path": "select/04_Consume_(feat._Goon_des_Garcons)_Chase_Atlantic.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Consume (feat. Goon Des Garcons) (Paused)",
+      "artist": "Chase Atlantic",
+      "has_synced": true,
+      "path": "select/05_Consume_(feat._Goon_Des_Garcons)_(Paused)_Chase_Atlantic.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Consume (feat. Goon Des Garcons)",
+      "artist": "Chase Atlantic - Topic",
+      "has_synced": true,
+      "path": "select/06_Consume_(feat._Goon_Des_Garcons)_Chase_Atlantic_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Consume (feat. Goon Des Garcons)",
+      "artist": "Chase Atlantic,GOON DES GARCONS*",
+      "has_synced": true,
+      "path": "select/07_Consume_(feat._Goon_Des_Garcons)_Chase_Atlantic,GOON_DES_GARCONS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Consume (feat. Goon Des Garcons)",
+      "artist": "Chase Atlantic - Topic",
+      "has_synced": true,
+      "path": "select/08_Consume_(feat._Goon_Des_Garcons)_Chase_Atlantic_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Consume (feat. Goon Des Garcons)",
+      "artist": "Chase Atlantic, Goon des Garcons",
+      "has_synced": true,
+      "path": "select/09_Consume_(feat._Goon_Des_Garcons)_Chase_Atlantic,_Goon_des_Garcons.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Consume (feat. Goon Des Garcons)",
+      "artist": "Chase Atlantic feat. Goon des Garcons",
+      "has_synced": true,
+      "path": "select/10_Consume_(feat._Goon_Des_Garcons)_Chase_Atlantic_feat._Goon_des_Garcons.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Chase Atlantic - \"Consume\" feat. Goon Des Garcons (Official Audio)",
+      "artist": "CHASE ATLANTIC",
+      "has_synced": true,
+      "path": "select/11_Chase_Atlantic_-__Consume__feat._Goon_Des_Garcons_(Official_Audio)_CHASE_ATLANTIC.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Consume (feat. GOON DES GARCONS)(SU)",
+      "artist": "Chase Atlantic, GOON DES GARCONS*",
+      "has_synced": true,
+      "path": "select/12_Consume_(feat._GOON_DES_GARCONS)(SU)_Chase_Atlantic,_GOON_DES_GARCONS.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Consume (feat. Goon Des Garcons)",
+      "artist": "Chase Atlantic (feat. Goon des Garcons)",
+      "has_synced": true,
+      "path": "select/13_Consume_(feat._Goon_Des_Garcons)_Chase_Atlantic_(feat._Goon_des_Garcons).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Chase Atlantic - \"Consume\" feat. Goon Des Garcons (Official Audio)",
+      "artist": "CHASE ATLANTIC",
+      "has_synced": true,
+      "path": "select/14_Chase_Atlantic_-__Consume__feat._Goon_Des_Garcons_(Official_Audio)_CHASE_ATLANTIC.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Consume (feat. Goon Des Garcons)",
+      "artist": "Chase Atlantic, GOON DES GARCONS* • From Smart Shuffle",
+      "has_synced": true,
+      "path": "select/15_Consume_(feat._Goon_Des_Garcons)_Chase_Atlantic,_GOON_DES_GARCONS__•_From_Smart_Shuffle.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Consume (feat. Goon Des Garcons)",
+      "artist": "Chase Atlantic, GOON DES GARCONS*",
+      "has_synced": false,
+      "path": "select/pl_01_Consume_(feat._Goon_Des_Garcons)_Chase_Atlantic,_GOON_DES_GARCONS.txt"
+    }
+  ]
+}
